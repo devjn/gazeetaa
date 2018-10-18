@@ -14,7 +14,7 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -136,6 +136,33 @@
           ],
           "_name": "video1",
           "_anchor": "video1-4"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/iYBqMiEdikE",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-5"
         }
       ]
     }
